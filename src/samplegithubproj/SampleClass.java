@@ -6,6 +6,7 @@ public class SampleClass {
 		
 		System.out.println("Git Sample file");
 		System.out.println("added a line for testing git branch b1");
+	
 	}
 
 }
